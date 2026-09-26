@@ -69,3 +69,13 @@ After payment, you'll be invited as a collaborator to the private `ArtemisMock` 
 ## License
 
 Commercial — see the private repository for full terms upon purchase.
+
+## 🔗 Other projects
+
+More tools from the same author:
+
+- **[LocalVectorSync](https://github.com/Evangelikcaos/local-vector-sync)** — local-first, privacy-native vector search engine for Node/Tauri/Electron, with optional encrypted S3/R2 sync.
+- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — sanitizes SVGs and auto-generates AI metadata for Adobe Stock, Freepik, and Shutterstock uploads.
+- **[ASTify](https://github.com/Evangelikcaos/AStify-app)** — AI-guided AST-based diff pruner that cuts LLM context tokens 70-80% in PR/CI code review.
+- **[ChronosGit](https://github.com/Evangelikcaos/ChronosGit-app)** — time-aware version control that blocks commits/pushes before expiring code reaches production.
+- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — open-source CLI: sanitizes SVGs and auto-generates AI metadata for stock marketplace uploads.
