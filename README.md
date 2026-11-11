@@ -59,7 +59,7 @@ This is the commercial distribution of ArtemisMock's private repository. Purchas
   <a href="https://www.paypal.com/ncp/payment/KN78NFJJBQFEY"><strong>Pay with PayPal →</strong></a>
 </p>
 
-After payment, you'll be invited as a collaborator to the private `ArtemisMock` repository with the full source, test suite, and documentation.
+**Enter your GitHub username in PayPal's "note to seller" field** so your access can be granted — after payment, you'll be invited as a collaborator to the private `ArtemisMock` repository with the full source, test suite, and documentation.
 
 ## Requirements
 
@@ -75,7 +75,6 @@ Commercial — see the private repository for full terms upon purchase.
 More tools from the same author:
 
 - **[LocalVectorSync](https://github.com/Evangelikcaos/local-vector-sync)** — local-first, privacy-native vector search engine for Node/Tauri/Electron, with optional encrypted S3/R2 sync.
-- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — sanitizes SVGs and auto-generates AI metadata for Adobe Stock, Freepik, and Shutterstock uploads.
+- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — open-source CLI that sanitizes SVGs and auto-generates AI metadata for Adobe Stock, Freepik, and Shutterstock uploads.
 - **[ASTify](https://github.com/Evangelikcaos/AStify-app)** — AI-guided AST-based diff pruner that cuts LLM context tokens 70-80% in PR/CI code review.
 - **[ChronosGit](https://github.com/Evangelikcaos/ChronosGit-app)** — time-aware version control that blocks commits/pushes before expiring code reaches production.
-- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — open-source CLI: sanitizes SVGs and auto-generates AI metadata for stock marketplace uploads.
