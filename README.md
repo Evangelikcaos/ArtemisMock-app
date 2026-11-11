@@ -51,6 +51,8 @@ This is the commercial distribution of ArtemisMock's private repository. Purchas
 
 ## Get access
 
+One-time payment, **$46 USD** (the same payment link is shared across all of Eduar's private showcases):
+
 <p align="center">
   <a href="https://www.paypal.com/ncp/payment/KN78NFJJBQFEY">
     <img src="./paypal-qr.png" width="180" alt="Scan to pay with PayPal">
@@ -59,7 +61,7 @@ This is the commercial distribution of ArtemisMock's private repository. Purchas
   <a href="https://www.paypal.com/ncp/payment/KN78NFJJBQFEY"><strong>Pay with PayPal →</strong></a>
 </p>
 
-**Enter your GitHub username in PayPal's "note to seller" field** so your access can be granted — after payment, you'll be invited as a collaborator to the private `ArtemisMock` repository with the full source, test suite, and documentation.
+**In PayPal's "note to seller" field, enter your GitHub username and the product name, separated by `/`** — e.g. `octocat / ArtemisMock` — so the system knows which repository to invite you to (this link is shared across several products). After payment, you'll be invited as a collaborator to the private `ArtemisMock` repository with the full source, test suite, and documentation.
 
 ## Requirements
 
